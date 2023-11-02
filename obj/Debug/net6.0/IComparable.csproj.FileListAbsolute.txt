@@ -1,0 +1,15 @@
+D:\Демка\prog\IComparable\obj\Debug\net6.0\IComparable.csproj.AssemblyReference.cache
+D:\Демка\prog\IComparable\obj\Debug\net6.0\IComparable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Демка\prog\IComparable\obj\Debug\net6.0\IComparable.AssemblyInfoInputs.cache
+D:\Демка\prog\IComparable\obj\Debug\net6.0\IComparable.AssemblyInfo.cs
+D:\Демка\prog\IComparable\obj\Debug\net6.0\IComparable.csproj.CoreCompileInputs.cache
+D:\Демка\prog\IComparable\bin\Debug\net6.0\IComparable.exe
+D:\Демка\prog\IComparable\bin\Debug\net6.0\IComparable.deps.json
+D:\Демка\prog\IComparable\bin\Debug\net6.0\IComparable.runtimeconfig.json
+D:\Демка\prog\IComparable\bin\Debug\net6.0\IComparable.dll
+D:\Демка\prog\IComparable\bin\Debug\net6.0\IComparable.pdb
+D:\Демка\prog\IComparable\obj\Debug\net6.0\IComparable.dll
+D:\Демка\prog\IComparable\obj\Debug\net6.0\refint\IComparable.dll
+D:\Демка\prog\IComparable\obj\Debug\net6.0\IComparable.pdb
+D:\Демка\prog\IComparable\obj\Debug\net6.0\IComparable.genruntimeconfig.cache
+D:\Демка\prog\IComparable\obj\Debug\net6.0\ref\IComparable.dll
